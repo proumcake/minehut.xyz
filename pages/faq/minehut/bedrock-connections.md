@@ -1,6 +1,6 @@
 ---
-description: Connect via Bedrock
-name: faq/minehut/bedrock-connections
+description: Connect via java
+name: cake smp
 madeBy: Tringlle
 ---
 
